@@ -1,1 +1,1 @@
-# Ai-Wriging-Assistant-MERN
+# Ai-Writing-Assistant-MERN
